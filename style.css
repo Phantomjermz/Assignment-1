@@ -56,7 +56,10 @@ input[type="checkbox"] {
     display: inline-block;
     margin-right: 5px;
     margin-top: 50px;
+   
 }
+
+
 
 input[type="submit"] {
     background-color: #4caf50;
